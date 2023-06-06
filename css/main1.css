@@ -1,0 +1,19 @@
+/*
+	BENMAMI AHMED
+	AIDE INGENIEUR NIVEAU 01 SAAD DAHLEB SOUMAA BLIDA
+	DEP DE MEDEA
+*/
+
+
+.date {
+    display: block;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 0.065em;
+    font-size: 1.25em;
+    color: #c94663;
+    margin: 0 0 1.25em 0;
+}
+.p {
+    font-size: 01cm;
+}
